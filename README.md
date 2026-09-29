@@ -15,7 +15,7 @@ Long-term, I want to do this as a digital nomad — working remotely from anywhe
 Market signals, data-driven research, systematic thinking.
 
 **Hackathon enthusiast** · ETH Shanghai, AdventureX, LXDAO, and more
-I've joined a lot of them. The one I'm proudest of is **ETH Shanghai 2025**, where I built on Ethereum and got sponsored through **ETHPanda's youth program**. I also built a DND Agent at AdventureX 2025 and took a Digital Collectible Award at the LXDAO casual hackathon.
+I've joined a lot of them. The one I'm proudest of is **ETH Shanghai 2025**, where I built on Ethereum and got sponsored through **ETHShanghai Youth Odyssey**. I also built a DND Agent at AdventureX 2025 and took a Digital Collectible Award at the LXDAO casual hackathon.
 
 ## Elsewhere
 
